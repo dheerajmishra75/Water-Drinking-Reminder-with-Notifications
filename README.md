@@ -6,9 +6,7 @@ The project focuses on practicing Python functions, loops, time-based execution,
 
 ## 🎥 Preview
 
-## 🎥 Preview
-
-[▶️ Watch Water Drinking Reminder Demo](./Preview/Water%20Drinking%20Reminder%20And%20Notification.mp4)
+[▶️ Watch Project Demo](./Preview/Water%20Drinking%20Reminder%20And%20Notification.mp4)
 
 The preview demonstrates the Python script running in VS Code and the desktop notification appearing with the water reminder message.
 
